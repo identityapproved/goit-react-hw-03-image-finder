@@ -1,4 +1,4 @@
-import { fetchImages } from 'Components/Api/api';
+import { fetchImages } from 'Services/Api/api';
 import { LoadMoreBtn } from 'Components/Button/button';
 import { ImageGallery } from 'Components/ImageGalleryList/ImageGalleryList';
 import OnLoading from 'Components/Loader/Loader';
